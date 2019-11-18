@@ -1,0 +1,7 @@
+C:\Users\arnal\OneDrive\Área de Trabalho\Capitulo 5\Cap05_Ativ03\Cap05_Ativ03\bin\Debug\Cap05_Ativ03.exe.config
+C:\Users\arnal\OneDrive\Área de Trabalho\Capitulo 5\Cap05_Ativ03\Cap05_Ativ03\bin\Debug\Cap05_Ativ03.exe
+C:\Users\arnal\OneDrive\Área de Trabalho\Capitulo 5\Cap05_Ativ03\Cap05_Ativ03\bin\Debug\Cap05_Ativ03.pdb
+C:\Users\arnal\OneDrive\Área de Trabalho\Capitulo 5\Cap05_Ativ03\Cap05_Ativ03\obj\Debug\Cap05_Ativ03.csprojAssemblyReference.cache
+C:\Users\arnal\OneDrive\Área de Trabalho\Capitulo 5\Cap05_Ativ03\Cap05_Ativ03\obj\Debug\Cap05_Ativ03.csproj.CoreCompileInputs.cache
+C:\Users\arnal\OneDrive\Área de Trabalho\Capitulo 5\Cap05_Ativ03\Cap05_Ativ03\obj\Debug\Cap05_Ativ03.exe
+C:\Users\arnal\OneDrive\Área de Trabalho\Capitulo 5\Cap05_Ativ03\Cap05_Ativ03\obj\Debug\Cap05_Ativ03.pdb

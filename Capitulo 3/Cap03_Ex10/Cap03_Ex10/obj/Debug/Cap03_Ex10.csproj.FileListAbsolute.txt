@@ -1,0 +1,6 @@
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap03_Ex10\Cap03_Ex10\bin\Debug\Cap03_Ex10.exe.config
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap03_Ex10\Cap03_Ex10\bin\Debug\Cap03_Ex10.exe
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap03_Ex10\Cap03_Ex10\bin\Debug\Cap03_Ex10.pdb
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap03_Ex10\Cap03_Ex10\obj\Debug\Cap03_Ex10.csproj.CoreCompileInputs.cache
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap03_Ex10\Cap03_Ex10\obj\Debug\Cap03_Ex10.exe
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap03_Ex10\Cap03_Ex10\obj\Debug\Cap03_Ex10.pdb

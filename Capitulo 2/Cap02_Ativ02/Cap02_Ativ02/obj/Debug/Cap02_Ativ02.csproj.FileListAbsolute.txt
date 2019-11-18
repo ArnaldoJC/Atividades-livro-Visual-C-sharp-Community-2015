@@ -1,0 +1,7 @@
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap02_Ativ02\Cap02_Ativ02\bin\Debug\Cap02_Ativ02.exe.config
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap02_Ativ02\Cap02_Ativ02\bin\Debug\Cap02_Ativ02.exe
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap02_Ativ02\Cap02_Ativ02\bin\Debug\Cap02_Ativ02.pdb
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap02_Ativ02\Cap02_Ativ02\obj\Debug\Cap02_Ativ02.csprojAssemblyReference.cache
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap02_Ativ02\Cap02_Ativ02\obj\Debug\Cap02_Ativ02.csproj.CoreCompileInputs.cache
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap02_Ativ02\Cap02_Ativ02\obj\Debug\Cap02_Ativ02.exe
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap02_Ativ02\Cap02_Ativ02\obj\Debug\Cap02_Ativ02.pdb

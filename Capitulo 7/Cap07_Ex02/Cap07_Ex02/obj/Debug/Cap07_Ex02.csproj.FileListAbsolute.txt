@@ -1,0 +1,7 @@
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap07_Ex02\Cap07_Ex02\bin\Debug\Cap07_Ex02.exe.config
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap07_Ex02\Cap07_Ex02\bin\Debug\Cap07_Ex02.exe
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap07_Ex02\Cap07_Ex02\bin\Debug\Cap07_Ex02.pdb
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap07_Ex02\Cap07_Ex02\obj\Debug\Cap07_Ex02.csprojAssemblyReference.cache
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap07_Ex02\Cap07_Ex02\obj\Debug\Cap07_Ex02.csproj.CoreCompileInputs.cache
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap07_Ex02\Cap07_Ex02\obj\Debug\Cap07_Ex02.exe
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap07_Ex02\Cap07_Ex02\obj\Debug\Cap07_Ex02.pdb

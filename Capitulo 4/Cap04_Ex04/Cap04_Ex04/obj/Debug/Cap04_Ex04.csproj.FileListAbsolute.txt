@@ -1,0 +1,7 @@
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap04_Ex04\Cap04_Ex04\bin\Debug\Cap04_Ex04.exe.config
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap04_Ex04\Cap04_Ex04\bin\Debug\Cap04_Ex04.exe
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap04_Ex04\Cap04_Ex04\bin\Debug\Cap04_Ex04.pdb
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap04_Ex04\Cap04_Ex04\obj\Debug\Cap04_Ex04.csproj.CoreCompileInputs.cache
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap04_Ex04\Cap04_Ex04\obj\Debug\Cap04_Ex04.exe
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap04_Ex04\Cap04_Ex04\obj\Debug\Cap04_Ex04.pdb
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap04_Ex04\Cap04_Ex04\obj\Debug\Cap04_Ex04.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap06_Ex01\Cap06_Ex01\obj\Debug\Cap06_Ex01.csprojAssemblyReference.cache
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap06_Ex01\Cap06_Ex01\obj\Debug\Cap06_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap06_Ex01\Cap06_Ex01\bin\Debug\Cap06_Ex01.exe.config
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap06_Ex01\Cap06_Ex01\bin\Debug\Cap06_Ex01.exe
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap06_Ex01\Cap06_Ex01\bin\Debug\Cap06_Ex01.pdb
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap06_Ex01\Cap06_Ex01\obj\Debug\Cap06_Ex01.exe
+C:\Users\arnal\OneDrive\Área de Trabalho\Cap06_Ex01\Cap06_Ex01\obj\Debug\Cap06_Ex01.pdb
