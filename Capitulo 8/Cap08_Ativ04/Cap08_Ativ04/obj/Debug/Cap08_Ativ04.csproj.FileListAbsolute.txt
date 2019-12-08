@@ -1,0 +1,10 @@
+C:\Users\arnal\source\repos\Cap08_Ativ04\Cap08_Ativ04\bin\Debug\Cap08_Ativ04.exe.config
+C:\Users\arnal\source\repos\Cap08_Ativ04\Cap08_Ativ04\bin\Debug\Cap08_Ativ04.exe
+C:\Users\arnal\source\repos\Cap08_Ativ04\Cap08_Ativ04\bin\Debug\Cap08_Ativ04.pdb
+C:\Users\arnal\source\repos\Cap08_Ativ04\Cap08_Ativ04\obj\Debug\Cap08_Ativ04.csprojAssemblyReference.cache
+C:\Users\arnal\source\repos\Cap08_Ativ04\Cap08_Ativ04\obj\Debug\Cap08_Ativ04.Form1.resources
+C:\Users\arnal\source\repos\Cap08_Ativ04\Cap08_Ativ04\obj\Debug\Cap08_Ativ04.Properties.Resources.resources
+C:\Users\arnal\source\repos\Cap08_Ativ04\Cap08_Ativ04\obj\Debug\Cap08_Ativ04.csproj.GenerateResource.cache
+C:\Users\arnal\source\repos\Cap08_Ativ04\Cap08_Ativ04\obj\Debug\Cap08_Ativ04.csproj.CoreCompileInputs.cache
+C:\Users\arnal\source\repos\Cap08_Ativ04\Cap08_Ativ04\obj\Debug\Cap08_Ativ04.exe
+C:\Users\arnal\source\repos\Cap08_Ativ04\Cap08_Ativ04\obj\Debug\Cap08_Ativ04.pdb

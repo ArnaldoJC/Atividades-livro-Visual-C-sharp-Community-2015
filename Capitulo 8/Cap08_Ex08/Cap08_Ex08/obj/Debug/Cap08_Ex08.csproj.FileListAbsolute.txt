@@ -1,0 +1,10 @@
+D:\Atividades-livro-Visual-Csharp-Community-2015\Capitulo 8\Cap08_Ex08\Cap08_Ex08\bin\Debug\Cap08_Ex08.exe.config
+D:\Atividades-livro-Visual-Csharp-Community-2015\Capitulo 8\Cap08_Ex08\Cap08_Ex08\bin\Debug\Cap08_Ex08.exe
+D:\Atividades-livro-Visual-Csharp-Community-2015\Capitulo 8\Cap08_Ex08\Cap08_Ex08\bin\Debug\Cap08_Ex08.pdb
+D:\Atividades-livro-Visual-Csharp-Community-2015\Capitulo 8\Cap08_Ex08\Cap08_Ex08\obj\Debug\Cap08_Ex08.csprojAssemblyReference.cache
+D:\Atividades-livro-Visual-Csharp-Community-2015\Capitulo 8\Cap08_Ex08\Cap08_Ex08\obj\Debug\Cap08_Ex08.Form1.resources
+D:\Atividades-livro-Visual-Csharp-Community-2015\Capitulo 8\Cap08_Ex08\Cap08_Ex08\obj\Debug\Cap08_Ex08.Properties.Resources.resources
+D:\Atividades-livro-Visual-Csharp-Community-2015\Capitulo 8\Cap08_Ex08\Cap08_Ex08\obj\Debug\Cap08_Ex08.csproj.GenerateResource.cache
+D:\Atividades-livro-Visual-Csharp-Community-2015\Capitulo 8\Cap08_Ex08\Cap08_Ex08\obj\Debug\Cap08_Ex08.csproj.CoreCompileInputs.cache
+D:\Atividades-livro-Visual-Csharp-Community-2015\Capitulo 8\Cap08_Ex08\Cap08_Ex08\obj\Debug\Cap08_Ex08.exe
+D:\Atividades-livro-Visual-Csharp-Community-2015\Capitulo 8\Cap08_Ex08\Cap08_Ex08\obj\Debug\Cap08_Ex08.pdb
